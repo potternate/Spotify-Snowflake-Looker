@@ -1,0 +1,76 @@
+name,album,artists,release_date,length,popularity,danceability,acousticness,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+Take It Off,Take It Off,"FISHER, Aatig",2023-04-21,194604,71,0.883,0.000509,0.706,0.265,0.363,-6.609,0.201,127.015,4
+Eat Your Man (with Nelly Furtado),Eat Your Man (with Nelly Furtado),"Dom Dolla, Nelly Furtado",2023-06-02,197164,77,0.738,0.053,0.883,0.193,0.102,-7.989,0.0818,125.04,4
+Feel Your Ghost,Feel Your Ghost,Mathame,2023-05-19,205259,74,0.712,0.0384,0.882,4.04e-05,0.477,-4.691,0.0782,133.021,4
+Shadows,Shadows,"Kungs, Carlita",2023-05-26,225518,67,0.745,0.0185,0.868,0.906,0.671,-6.105,0.0464,123.988,4
+On + On (with Justine Skye),Breathwork,Austin Millz,2023-06-16,169655,55,0.672,0.348,0.606,9.95e-06,0.19,-9.903,0.279,116.1,4
+Beggin',Beggin',"Chris Lake, Aluna",2023-04-20,183397,77,0.817,0.156,0.67,0.168,0.111,-6.315,0.0545,125.972,4
+Welcome To The Opera (with Grimes),Welcome To The Opera (with Grimes),"Anyma, Grimes",2023-06-08,245280,69,0.455,0.0073,0.897,0.259,0.429,-6.345,0.0507,124.977,4
+Upside Down (feat. Poppy Baskcomb),Upside Down (feat. Poppy Baskcomb),"MEDUZA, Poppy Baskcomb",2023-04-14,174374,74,0.548,0.0187,0.857,0.749,0.0731,-6.83,0.0369,127.967,4
+Overdrive - Edit,Overdrive EP,Charlotte de Witte,2023-05-17,254836,63,0.715,0.0114,0.786,0.525,0.117,-9.047,0.159,138.002,4
+On & On,On & On,"Armin van Buuren, Punctual, Alika",2023-03-29,170578,72,0.681,0.0221,0.933,0.00504,0.266,-2.855,0.104,128.036,4
+Where You Are,Where You Are,"John Summit, Hayla",2023-03-03,236000,80,0.56,0.00953,0.832,0.00541,0.546,-6.432,0.0363,126.0,4
+Baby Don't Hurt Me,Baby Don't Hurt Me,"David Guetta, Anne-Marie, Coi Leray",2023-04-06,140017,93,0.602,0.00126,0.91,0.000174,0.12,-3.404,0.0308,127.944,4
+Hurricane,Hurricane,"Martin Garrix, Sentinel, Bonn",2023-06-02,198867,73,0.434,0.0122,0.66,6.12e-06,0.103,-5.605,0.0359,127.968,4
+Crying On The Dancefloor,Crying On The Dancefloor,"Sam Feldt, Jonas Blue, Endless Summer",2023-03-17,173008,82,0.723,0.18,0.698,0.0,0.797,-6.162,0.0659,126.001,4
+How You Samba,How You Samba,"Kris Kross Amsterdam, Sofía Reyes, Tinie Tempah",2023-05-12,151680,56,0.566,0.0461,0.704,3.25e-05,0.731,-8.003,0.0752,124.933,4
+0800 HEAVEN,0800 HEAVEN,"Nathan Dawe, Joel Corry, Ella Henderson",2023-06-09,159316,58,0.644,0.183,0.836,1.71e-06,0.343,-4.083,0.111,140.015,4
+(It Goes Like) Nanana - Edit,(It Goes Like) Nanana [Edit],Peggy Gou,2023-06-15,231545,76,0.671,0.12,0.876,0.188,0.0823,-5.681,0.0352,129.998,4
+Feels Just Like it,Light Places,LP Giobbi,2023-05-12,241804,61,0.693,0.246,0.526,0.116,0.281,-11.323,0.0361,120.946,4
+Your Mind Is Dirty,Your Mind Is Dirty,Mau P,2023-05-19,198799,66,0.652,0.453,0.976,0.888,0.403,-5.009,0.0604,128.012,4
+See The Light (feat. Fridayy),See The Light,Swedish House Mafia,2023-05-26,308860,72,0.586,0.0115,0.877,0.841,0.103,-8.164,0.0373,129.012,4
+The Feeling,The Feeling,Lost Frequencies,2023-06-09,153449,74,0.615,0.404,0.744,0.0,0.0906,-7.706,0.163,131.837,4
+Shit We Do For Love,Shit We Do For Love,"Icona Pop, Yaeger",2023-05-05,167566,61,0.691,0.0466,0.859,0.0172,0.0505,-5.211,0.116,142.046,4
+Miracle (with Ellie Goulding),Miracle (with Ellie Goulding),"Calvin Harris, Ellie Goulding",2023-03-10,186496,92,0.636,0.0378,0.869,0.0446,0.0808,-5.289,0.0412,143.011,4
+Lose Control,Lose Control,James Hype,2023-05-12,173437,70,0.714,0.0338,0.936,0.0239,0.244,-3.693,0.0426,128.011,4
+Padam Padam,Padam Padam,Kylie Minogue,2023-05-18,166266,82,0.746,0.201,0.622,0.00113,0.104,-7.923,0.241,128.101,4
+Side Effects,Side Effects,"Becky Hill, Lewis Thompson",2023-05-12,153742,77,0.769,0.0488,0.831,0.0,0.0771,-4.162,0.0552,120.976,4
+Praising You (feat. Fatboy Slim),Praising You (feat. Fatboy Slim),"Rita Ora, Fatboy Slim",2023-04-19,164693,78,0.689,0.07,0.788,0.0,0.246,-4.978,0.084,122.968,4
+Rock My Body,Rock My Body (with INNA & Sash!),"R3HAB, INNA, Sash!",2023-04-28,137419,81,0.662,0.202,0.821,0.0,0.522,-4.103,0.13,124.077,4
+Oh The Glamour,Oh The Glamour,"Aluna, Pabllo Vittar, MNEK",2023-06-07,201529,60,0.644,0.113,0.746,0.081,0.123,-6.993,0.038,124.023,4
+Without You,Without You,Alesso,2023-06-02,143440,69,0.576,0.15,0.935,0.0,0.724,-3.805,0.102,128.051,4
+Sometimes… (with Daya & Earthgang),never worry,Snakehips,2023-05-05,222624,68,0.67,0.039,0.786,0.0,0.433,-5.07,0.107,106.009,4
+When She Dance,Guy,Jayda G,2023-06-09,202375,59,0.843,0.0317,0.605,1.1e-06,0.0824,-7.988,0.0383,108.93,4
+Enjoy Your Life,Enjoy Your Life,Romy,2023-04-11,240053,68,0.674,0.0143,0.924,6.09e-06,0.216,-4.943,0.102,123.04,4
+Baby again..,Baby again..,"Fred again.., Skrillex, Four Tet",2023-03-17,319963,75,0.847,0.00355,0.724,0.00339,0.0731,-7.668,0.047,126.983,4
+Good Love,Good Love,"Hannah Laing, RoRo",2023-05-12,169534,76,0.775,0.127,0.817,0.00273,0.215,-4.921,0.0656,140.033,4
+Be The One,Be The One,Eli Brown,2023-03-31,169852,76,0.659,0.00634,0.93,0.177,0.104,-5.084,0.043,135.977,4
+I like u,I like u,Tove Lo,2023-05-31,190902,74,0.456,0.00271,0.85,3.75e-05,0.231,-7.897,0.0853,132.866,4
+All Night Long,All Night Long,Chris Stussy,2023-05-26,234525,68,0.791,0.00877,0.704,0.301,0.0988,-9.879,0.0461,133.006,4
+Lost My Mind (Wake Up),Lost My Mind (Wake Up),BUNT.,2023-04-07,147673,65,0.562,0.00286,0.783,0.948,0.86,-6.688,0.23,132.863,4
+Sweat,Sweat,KREAM,2023-05-19,159047,64,0.647,0.00793,0.798,0.0196,0.105,-7.049,0.0393,126.028,4
+Ghost Town,Ghost Town,"VIZE, Joris Sava, July",2023-04-07,162857,76,0.696,0.0347,0.525,9.51e-06,0.121,-6.151,0.0361,140.024,4
+Hero,Hero,"Alan Walker, Sasha Alex Sloan",2023-05-04,175271,81,0.59,0.046,0.681,7.55e-05,0.153,-7.289,0.0305,126.02,4
+Dancing is Healing,Dancing is Healing,"Rudimental, Charlotte Plank, Vibe Chemistry",2023-04-21,177321,78,0.589,0.265,0.808,0.0,0.0513,-4.338,0.0848,165.852,4
+Off Wiv Ya Headz,Off Wiv Ya Headz,Nia Archives,2023-06-09,206694,62,0.555,0.0116,0.984,0.586,0.54,-2.772,0.135,164.989,4
+Jacaré,Jacaré,Sofi Tukker,2023-04-21,156620,68,0.694,0.00375,0.84,0.0163,0.116,-5.18,0.0364,125.063,4
+Thinkin of You,Thinkin of You,"Dylan & Harry, Party Favor, Baauer",2023-05-26,137142,56,0.78,0.0343,0.949,0.0118,0.114,-2.98,0.0555,133.057,4
+Other Side,ILLENIUM,ILLENIUM,2023-04-28,211592,66,0.537,0.512,0.753,0.000244,0.3,-3.351,0.082,81.929,4
+Wish I Could Forget (with blackbear & Bring Me The Horizon),Wish I Could Forget (with blackbear & Bring Me The Horizon),"SLANDER, blackbear, Bring Me The Horizon",2023-05-19,206000,74,0.589,0.01,0.699,0.0,0.0925,-4.975,0.0388,119.926,4
+Lose My Mind,Lose My Mind,Jamie Jones,2023-03-10,181935,66,0.646,0.00119,0.898,0.0406,0.189,-6.27,0.0358,124.002,4
+Push Up - Main Edit,Push Up (Main Edit),Creeds,2023-03-31,139300,84,0.767,0.209,0.83,0.836,0.0582,-8.78,0.206,75.023,4
+TMO (Turn Me On) [feat. Kevin Lyttle],TMO (Turn Me On) [feat. Kevin Lyttle],"Luude, Bru-C, Kevin Lyttle",2023-04-27,159161,74,0.503,0.128,0.915,0.0,0.227,-2.488,0.136,179.002,4
+RATATA,Quest For Fire,Skrillex,2023-02-17,126774,75,0.889,0.0145,0.6,0.0,0.08,-10.603,0.144,123.978,4
+Can’t Fight The Feeling,Can’t Fight The Feeling,Matroda,2023-02-17,171428,65,0.878,0.00861,0.882,2.39e-05,0.201,-4.143,0.223,125.98,4
+Push To Start (feat. No/Me),Push To Start (feat. No/Me),"Noizu, Westend, No/Me",2023-02-24,181875,69,0.852,0.00951,0.988,0.302,0.0629,-6.007,0.0588,128.013,4
+Rhyme Dust,Rhyme Dust,"MK, Dom Dolla",2023-02-24,181364,70,0.925,0.0659,0.561,0.0271,0.152,-8.675,0.176,128.034,4
+Colourblind,Colourblind,"Jess Bays, Hayley May",2023-03-03,185120,66,0.742,0.033,0.835,0.00156,0.22,-6.23,0.0385,127.013,4
+Don't Stop,Don't Stop,Biscits,2023-04-28,170196,63,0.824,0.0541,0.608,0.241,0.0747,-8.51,0.0541,127.028,4
+Substitution,Substitution,"Purple Disco Machine, Kungs",2023-03-30,181477,84,0.69,0.00903,0.89,1.61e-05,0.188,-4.866,0.0507,124.018,4
+The Rapture Pt.III,The Rapture Pt.III,"&ME, Black Coffee, Keinemusik",2023-06-09,417812,64,0.72,0.0223,0.534,0.86,0.11,-11.949,0.0375,120.009,4
+If Love Is A Skill,If Love Is A Skill & Georgia,"LP Giobbi, Sofi Tukker",2023-03-21,217708,63,0.599,0.228,0.63,0.182,0.208,-11.511,0.0375,122.042,3
+Misbehave,Misbehave,"Ship Wrek, Disco Lines",2023-04-07,174220,59,0.734,0.321,0.858,0.0109,0.0729,-5.42,0.0428,124.036,4
+Explore Your Future,Explore Your Future,Anyma,2023-03-23,220887,71,0.716,0.000561,0.881,0.67,0.216,-7.027,0.0536,123.984,4
+Voodoo,Voodoo,Gorgon City,2023-03-10,213800,74,0.66,0.212,0.878,0.663,0.16,-6.647,0.0596,129.004,4
+Giving Me,Giving Me,Jazzy,2023-03-10,169000,83,0.735,0.329,0.651,0.000205,0.131,-9.25,0.112,127.07,4
+Sex & The City - MK Remix,Sex & The City (MK Remix),"HoneyLuv, Seth Troxler, MK",2023-04-05,187142,55,0.798,0.00114,0.9,0.877,0.0851,-4.64,0.0644,132.0,4
+Good Lies,Good Lies,Overmono,2023-03-31,160127,62,0.688,0.0694,0.809,0.88,0.602,-4.781,0.0474,126.019,4
+Pretty People (feat. INJI),Pretty People (feat. INJI),"Dillon Francis, INJI",2023-04-07,149771,63,0.774,0.0346,0.851,0.03,0.103,-6.621,0.0438,130.023,4
+Relax My Eyes,Relax My Eyes,"ANOTR, Abel Balder",2022-11-04,192150,81,0.747,0.176,0.616,0.116,0.143,-9.76,0.0324,131.975,4
+Make Me,Make Me,"Borai & Denham Audio, Borai, Denham Audio",2023-02-17,151436,72,0.618,0.0356,0.954,0.00148,0.15,-3.421,0.0399,129.979,4
+Euphoria,Euphoria,Claptone,2023-03-17,158399,61,0.426,0.019,0.857,0.817,0.172,-5.95,0.0495,124.967,4
+Tina,Tina,"Vintage Culture, Bhaskar, Meca",2023-03-10,262500,65,0.746,0.00272,0.91,0.262,0.364,-8.807,0.0584,128.007,4
+Beyond the Fire,Beyond the Fire,Don Diablo,2023-02-17,228620,66,0.631,0.888,0.379,0.918,0.0947,-12.662,0.0451,113.79,4
+Wait For It,Wait For It,salute,2023-02-06,239668,60,0.732,0.000639,0.885,0.00127,0.032,-4.538,0.129,133.018,4
+"Yahyuppiyah (feat. Pcee, EeQue & Chley)","Yahyuppiyah (feat. Pcee, EeQue, & Chley)","Uncle Waffles, Tony Duardo, Justin99",2023-03-29,296975,70,0.819,0.00585,0.457,0.000127,0.0661,-12.641,0.126,112.027,4
+Beyond Us - Hatshepsut Version,Beyond Us (Hatshepsut Version),"Eynka, Adriatique",2023-03-09,234795,59,0.667,0.071,0.9,0.764,0.378,-8.816,0.0381,125.993,4
