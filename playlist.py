@@ -20,7 +20,6 @@ print(f"Name: {playlist['name']}")
 print(f"Owner: {playlist['owner']['display_name']}")
 print(f"Tracks: {playlist['tracks']['total']}")
 
-
 def get_track_features(id):
     metadata = sp.track(id)
     features = sp.audio_features(id)
